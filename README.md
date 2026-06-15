@@ -1,6 +1,7 @@
 # React Accordion Component
 
-<img width="779" height="403" alt="image" src="https://github.com/user-attachments/assets/010be26c-5ce5-4847-b1ab-74dbb3c1a0ea" />
+<img width="1350" height="881" alt="image" src="https://github.com/user-attachments/assets/603fd01b-3149-4f18-9bb8-523be6083064" />
+
 
 ## Overview
 
