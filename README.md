@@ -1,5 +1,7 @@
 # React Accordion Component
 
+<img width="779" height="403" alt="image" src="https://github.com/user-attachments/assets/010be26c-5ce5-4847-b1ab-74dbb3c1a0ea" />
+
 ## Overview
 
 This project is a reusable Accordion Component built with React and Tailwind CSS. The goal of this project was to practice React state management, component composition, event handling, and array manipulation techniques commonly asked in React machine coding interviews.
