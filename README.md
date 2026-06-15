@@ -27,7 +27,7 @@ src
 ├── components
 │   ├── Accordion.jsx
 │   ├── AccordionItem.jsx
-│   └── UtilityButton.jsx
+│   └── Header.jsx
 │
 ├── data
 │   └── faqData.js
